@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore large model weights
+/helmet_model/weights/best.pt
+/helmet_model/weights/last.pt
+
+# Ignore zip and temp files
+*.zip
