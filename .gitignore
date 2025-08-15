@@ -5,5 +5,9 @@
 /helmet_model/weights/best.pt
 /helmet_model/weights/last.pt
 
+#Ignore input and uploads folders
+/static/output/
+/static/uploads/
+
 # Ignore zip and temp files
 *.zip
