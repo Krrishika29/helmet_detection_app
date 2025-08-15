@@ -1,9 +1,8 @@
 # Ignore Python virtual environments
 .venv/
 
-# Ignore large model weights
-/helmet_model/weights/best.pt
-/helmet_model/weights/last.pt
+# Ignore helmet model files
+helmet_model/
 
 #Ignore input and uploads folders
 /static/output/
